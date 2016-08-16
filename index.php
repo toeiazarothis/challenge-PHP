@@ -8,7 +8,7 @@
   </head>
   <body class="pageindex">
     <ul class="topnav">
-      <li class="left"><a class="active" href="index.php">Home</a></li>
+      <li class="left"><a class="active">Home</a></li>
       <li><a href="contact.php">Contact</a></li>
       <li><a href="trek.php">Trek</a></li>
       <li><a href="prestation.php">Prestation</a></li>

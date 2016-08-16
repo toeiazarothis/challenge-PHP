@@ -21,6 +21,9 @@ ul.topnav li a {
     padding: 14px 16px;
     text-decoration: none;
 }
+ul.topnav li a:before{
+  content: "\f06d";
+}
 
 ul.topnav li a:hover:not(.active) {
   background-color: #111;

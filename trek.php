@@ -8,7 +8,7 @@
   </head>
   <body class="pagetrek">
     <ul class="topnav">
-      <li class="left"><a href="index.php" content:"f06d">Home</a></li>
+      <li class="left"><a href="index.php">Home</a></li>
       <li><a href="contact.php">Contact</a></li>
       <li><a class="active" href="trek.php">Trek</a></li>
       <li><a href="prestation.php">Prestation</a></li>
