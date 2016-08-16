@@ -39,15 +39,26 @@ ul.topnav li.left {
     ul.topnav li {float: none;}
 }
 
+.contenu {
+  background: rgba(0,0,0,0.3);
+  color: white;
+  padding: 2rem;
+  width: 33%;
+  margin:2rem;
+  float: right;
+}
+
 .pageindex{
-  background-image: url(img/fond1.png);
+  background-image: url(../img/fond1.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 .pagetrek{
-  background-image: url(img/fond2.png);
+  background-image: url(../img/fond2.jpg);
 }
 .pagecontact{
-  background-image: url(img/fond3.png);
+  background-image: url(../img/fond3.jpg);
 }
 .pageprestation{
-  background-image: url(img/fond4.png);
+  background-image: url(../img/fond4.jpg);
 }

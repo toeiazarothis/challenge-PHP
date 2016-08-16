@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Trek & co</title>
   </head>
-  <body>
+  <body class="pageprestation">
     <ul class="topnav">
       <li class="left"><a href="index.php" content:"f06d">Home</a></li>
       <li><a href="contact.php">Contact</a></li>
@@ -15,17 +15,10 @@
     </ul>
 
     <div class="contenu">
-
+      <?php
+      include ("txt/pageprestation.txt");
+      ?>
 
     </div>
-
-
-
-
-
-    <footer>
-      <i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
-      <span class="sr-only">Loading...</span>
-    </footer>
   </body>
 </html>
