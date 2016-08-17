@@ -23,6 +23,7 @@ ul.topnav li a {
 }
 ul.topnav li a:before{
   content: "\f06d";
+  font-family: FontAwesome;
 }
 
 ul.topnav li a:hover:not(.active) {

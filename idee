@@ -1,1 +1,7 @@
 http://ai13.fr/styler-automatiquement-menu-page-active/   grosse piste pour la page active
+
+
+["SCRIPT_NAME"]=> string(23) "/challenge-PHP/trek.php" ["PHP_SELF"]=> string(23) "/challenge-PHP/trek.php"
+["SCRIPT_NAME"]=> string(24) "/challenge-PHP/index.php" ["PHP_SELF"]=> string(24) "/challenge-PHP/index.php"
+["SCRIPT_NAME"]=> string(26) "/challenge-PHP/contact.php" ["PHP_SELF"]=> string(26) "/challenge-PHP/contact.php"
+["SCRIPT_NAME"]=> string(29) "/challenge-PHP/prestation.php" ["PHP_SELF"]=> string(29) "/challenge-PHP/prestation.php" 
