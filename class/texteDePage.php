@@ -14,8 +14,18 @@ function TexteDePage {
   }
 }
 
-
-
+if ($page_en_cours == index) {
+  echo '<body class="pageindex">';
+}
+if ($page_en_cours == prestation ) {
+  echo '<body class="pageprestation">';
+}
+if ($page_en_cours == trek) {
+  echo '<body class="pagetrek">';
+}
+if ($page_en_cours == contact) {
+  echo '<body class="pagecontact">';
+}
 
 /* include ("txt/pageindex.txt") */
 ?>

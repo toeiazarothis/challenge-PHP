@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Trek & co</title>
   </head>
-  <body class="pageindex">
+<?php $page_en_cours ?>
     <ul class="topnav">
       <li class="left"><a class="active">Home</a></li>
       <li><a href="contact.php">Contact</a></li>

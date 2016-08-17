@@ -59,10 +59,16 @@ ul.topnav li.left {
 }
 .pagetrek{
   background-image: url(../img/fond2.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 .pagecontact{
   background-image: url(../img/fond3.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
 }
 .pageprestation{
   background-image: url(../img/fond4.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
 }
