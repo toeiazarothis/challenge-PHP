@@ -9,4 +9,5 @@ function afficherTexte(){
   $texte = 'txt/page'.afficherFichier().'.txt';
   readfile ($texte);}
 /* include ("txt/pageindex.txt") */
+
 ?>

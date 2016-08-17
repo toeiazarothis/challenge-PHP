@@ -39,7 +39,7 @@ ul.topnav li.left {
 }
 
 @media screen and (max-width: 600px){
-    ul.topnav li.right,
+    ul.topnav li.left,
     ul.topnav li {float: none;}
 }
 
