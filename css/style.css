@@ -53,22 +53,22 @@ ul.topnav li.left {
 }
 
 .pageindex{
-  background-image: url(../img/fond1.jpg);
+  background: url(../img/fond1.jpg) center fixed;
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
 }
 .pagetrek{
-  background-image: url(../img/fond2.jpg);
+  background: url(../img/fond2.jpg) center fixed;
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
 }
 .pagecontact{
-  background-image: url(../img/fond3.jpg);
+  background: url(../img/fond3.jpg) center fixed;
   background-repeat: no-repeat;
   background-size: auto;
 }
 .pageprestation{
-  background-image: url(../img/fond4.jpg);
+  background: url(../img/fond4.jpg) center fixed;
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
 }

@@ -6,9 +6,12 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Trek & co</title>
   </head>
-<?php $page_en_cours ?>
-    <ul class="topnav">
-      <li class="left"><a class="active">Home</a></li>
+  <body class="pageindex">
+    <?php
+    include ("class/texteDePage.php");
+    ?>
+  <ul class="topnav">
+      <li class="left"><a href="index.php"class="active">Home</a></li>
       <li><a href="contact.php">Contact</a></li>
       <li><a href="trek.php">Trek</a></li>
       <li><a href="prestation.php">Prestation</a></li>
@@ -16,7 +19,7 @@
 
     <div class="contenu">
       <?php
-      include ("txt/pageindex.txt");
+      afficherTexte();
       ?>
   </div>
   </body>
