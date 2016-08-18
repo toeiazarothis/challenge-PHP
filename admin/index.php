@@ -12,5 +12,11 @@
         <li><a href="ajoutFichier.php">Ajout</a></li>
         <li><a href="creation.php">Creation</a></li>
       </ul>
+      <div class="contenucentrer">
+        <p>
+          Bienvenue sur la page d'administration de Trek & Co <br>
+          Vous allez pouvoir ajouter un fichier de type texte et egalement crée une page suplementaire.
+        </p>
+      </div>
   </body>
 </html>

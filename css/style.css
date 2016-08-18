@@ -51,7 +51,15 @@ ul.topnav li.left {
   margin:2rem;
   float: right;
 }
-
+.contenucentrer{
+  background: rgba(0,0,0,0.3);
+  color: white;
+  padding: 2rem;
+  width: auto;
+  margin:2rem;
+  float: none;
+  text-align: center;
+}
 .pageindex{
   background: url(../img/fond1.jpg) center fixed;
   background-repeat: no-repeat;
