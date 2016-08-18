@@ -1,0 +1,4 @@
+AuthName "Page d'administration protégée"
+AuthType Basic
+AuthUserFile "/home/u852249137/public_html/challenge-PHP/admin/.htpasswd"
+Require valid-user

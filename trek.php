@@ -12,6 +12,7 @@
       <li><a href="contact.php">Contact</a></li>
       <li><a class="active" href="trek.php">Trek</a></li>
       <li><a href="prestation.php">Prestation</a></li>
+      <li><a href="admin/"> &nbsp; <i class="fa fa-tachometer" aria-hidden="true"></i></a></li>
     </ul>
 
     <div class="contenu">

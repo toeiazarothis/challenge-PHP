@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://opensource.keycdn.com/fontawesome/4.6.3/font-awesome.min.css">
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="icon" href="../img/favicon-rebel.ico" />
     <title>AJout d'un fichier</title>
   </head>
   <body>

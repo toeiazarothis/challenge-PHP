@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <link rel="stylesheet" href="https://opensource.keycdn.com/fontawesome/4.6.3/font-awesome.min.css">
   <link rel="stylesheet" href="../css/style.css">
+  <link rel="icon" href="../img/favicon-check-square-o.ico" />
   <title>AJout d'un fichier</title>
 </head>
 <body>
@@ -13,6 +14,9 @@
     <li><a href="creation.php">Creation</a></li>
   </ul>
   <div class="contenucentrer">
+    <p>
+      <i class="fa fa-check fa-5x" aria-hidden="true"></i>
+    </p>
     <?php
 
       if( isset($_POST['upload']) ) // si formulaire soumis

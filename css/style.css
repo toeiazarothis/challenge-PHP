@@ -80,3 +80,8 @@ ul.topnav li.left {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.gifbackground{
+  background: url('../img/source.gif') no-repeat center fixed;
+  background-size: cover;
+}
