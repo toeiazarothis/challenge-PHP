@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://opensource.keycdn.com/fontawesome/4.6.3/font-awesome.min.css">
     <link rel="stylesheet" href="../css/style.css">
-    <title></title>
+    <title>Administration</title>
   </head>
   <body>
     <ul class="topnav">
