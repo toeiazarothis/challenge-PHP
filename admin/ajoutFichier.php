@@ -12,11 +12,13 @@
         <li><a href="ajoutFichier.php" class="active">Ajout</a></li>
         <li><a href="creation.php">Creation</a></li>
       </ul>
-
-    <form method="post" enctype="multipart/form-data" action="upload.php"><p>
-      <input type="file" name="fichier" size="30">
-      <input type="submit" name="upload" value="Uploader">
-    </p>
-  </form>
+    <div class="contenucentrer">
+      <form method="post" enctype="multipart/form-data" action="upload.php">
+        <p>
+          <input type="file" name="fichier" size="30">
+          <input type="submit" name="upload" value="Uploader">
+        </p>
+      </form>
+    </div>
   </body>
 </html>
