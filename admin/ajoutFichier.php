@@ -8,10 +8,10 @@
   </head>
   <body>
     <ul class="topnav">
-        <li><a href="index.php">Home</a></li>
-        <li><a href="ajoutFichier.php" class="active">Ajout</a></li>
-        <li><a href="creation.php">Creation</a></li>
-      </ul>
+      <li><a href="index.php">Home</a></li>
+      <li><a href="ajoutFichier.php" class="active">Ajout</a></li>
+      <li><a href="creation.php">Creation</a></li>
+    </ul>
     <div class="contenucentrer">
       <form method="post" enctype="multipart/form-data" action="upload.php">
         <p>

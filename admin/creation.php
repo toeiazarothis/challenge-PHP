@@ -8,10 +8,12 @@
   </head>
   <body>
     <ul class="topnav">
-        <li><a href="index.php">Home</a></li>
-        <li><a href="ajoutFichier.php">Ajout</a></li>
-        <li><a href="creation.php" class="active">Creation</a></li>
-      </ul>
-
+      <li><a href="index.php">Home</a></li>
+      <li><a href="ajoutFichier.php">Ajout</a></li>
+      <li><a href="creation.php" class="active">Creation</a></li>
+    </ul>
+    <div class="contenucentrer">
+      Parti du systeme de creation de page.
+    </div>
   </body>
 </html>
